@@ -45,13 +45,13 @@ body{
 /* set up navigation bar*/
 nav{
   align-content:center;
-  padding: 20px;
+  padding: 50px;
   background-color: #234481;
 }
 /*organize links in the nav bar */
 .nav{
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
 }
 
 /* customize all links */
