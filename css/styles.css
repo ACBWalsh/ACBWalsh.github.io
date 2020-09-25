@@ -22,7 +22,7 @@ h4{
   font-family: chelsea-market-pro, sans-serif;
   font-style: normal;
   font-size: 36px;
-  padding: 5px;
+  padding: 0px;
 }
 /* font size for all text in main webpage */
 p {
@@ -77,4 +77,8 @@ a:hover{
 
 .webpage {
   color: #234481;
+}
+
+.footer {
+  text-align: center;
 }
