@@ -16,6 +16,13 @@ h3{
   font-size: 125px;
 
 }
+
+h4{
+  color: #234481;
+  font-family: chelsea-market-pro, sans-serif;
+  font-style: normal;
+  font-size: 75px;
+}
 /* font size for all text in main webpage */
 p li {
   font-size: 200px;
@@ -61,4 +68,8 @@ a:hover{
 .main{
   width: 50%;
   float: left;
+}
+
+.webpage {
+  color: #234481;
 }
