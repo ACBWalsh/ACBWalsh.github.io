@@ -27,10 +27,12 @@ h4{
 /* font size for all text in main webpage */
 p {
   font-size: 24px;
+  font-family: monospace;
 }
 
 li {
   font-size: 24px;
+  font-family: monospace;
 }
 
 /* bakground color */
