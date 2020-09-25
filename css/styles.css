@@ -22,7 +22,6 @@ h4{
   font-family: chelsea-market-pro, sans-serif;
   font-style: normal;
   font-size: 36px;
-  text-align: center;
   padding: 5px;
 }
 /* font size for all text in main webpage */
@@ -43,8 +42,8 @@ nav{
 }
 /*organize links in the nav bar */
 .nav{
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 75px;
+  padding-right: 75px;
 }
 
 /* customize all links */
