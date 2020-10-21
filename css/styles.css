@@ -25,13 +25,7 @@ h4{
   padding: 0px;
 }
 
-.linkHead{
-  color: #234481;
-  font-family: chelsea-market-pro, sans-serif;
-  font-style: normal;
-  font-size: 36px;
-  padding: 0px;
-}
+
 /* font size for all text in main webpage */
 p {
   font-size: 24px;
@@ -45,7 +39,7 @@ li {
 
 /* bakground color */
 body{
-  background-color:#48A9A6;
+  background-color:#7EC8C5;
 }
 
 /* set up navigation bar*/
@@ -92,4 +86,12 @@ a:hover{
 
 .footer {
   text-align: center;
+}
+
+.linkHead{
+  color: #234481;
+  font-family: chelsea-market-pro, sans-serif;
+  font-style: normal;
+  font-size: 36px;
+  padding: 0px;
 }
