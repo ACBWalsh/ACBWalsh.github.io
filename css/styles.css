@@ -37,7 +37,7 @@ li {
 
 /* bakground color */
 body{
-  background-color:#ebf7ff;
+  background-color:#48A9A6;
 }
 
 /* set up navigation bar*/
@@ -55,14 +55,14 @@ nav{
 /* customize all links */
 a{
 font-size: 30px;
-color: white;
+color: #E4DFDA;
 padding: 5px;
 font-family: monospace;
 
 }
 /* change link color on hover*/
 a:hover{
-  color: #a981db;
+  color: #f45b69;
 }
 
 /*set up left section of page */
