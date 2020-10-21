@@ -46,7 +46,7 @@ body{
 nav{
   align-content:center;
   padding: 50px;
-  background-color: #234481;
+  background-color: #F45B69;
 }
 /*organize links in the nav bar */
 .nav{
@@ -64,7 +64,7 @@ font-family: monospace;
 }
 /* change link color on hover*/
 a:hover{
-  color: #f45b69;
+  color: #7EC8C5;
 }
 
 /*set up left section of page */
