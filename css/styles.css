@@ -39,7 +39,7 @@ li {
 
 /* bakground color */
 body{
-  background-color:#7EC8C5;
+  background-color:#b8e0df;
 }
 
 /* set up navigation bar*/
@@ -64,7 +64,7 @@ font-family: monospace;
 }
 /* change link color on hover*/
 a:hover{
-  color: #7EC8C5;
+  color: #b8e0df;
 }
 
 /*set up left section of page */
