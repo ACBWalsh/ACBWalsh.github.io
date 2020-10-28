@@ -84,10 +84,7 @@ a:hover{
 .webpage {
   color: #234481;
     text-align: center;
-}
-.webpage:hover{
-  color: #F45B69
-}
+
 
 .footer {
   text-align: center;
@@ -100,4 +97,9 @@ a:hover{
   font-size: 36px;
   padding: 0px;
   text-align: center;
+}
+
+}
+.webpage:hover{
+  color: #F45B69
 }
