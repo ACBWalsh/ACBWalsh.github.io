@@ -101,3 +101,14 @@ a:hover{
   padding: 0px;
   text-align: center;
 }
+
+.special{
+  font-family: chelsea-market-pro, sans-serif;
+  font-style: normal;
+  font-size: 36px;
+  padding: 0px;
+  text-align: center;
+}
+.special:hover {
+color: #F45B69
+}
