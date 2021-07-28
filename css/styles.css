@@ -8,6 +8,14 @@
   width: 100%
 }
 
+/* centering images*/
+.snap{
+  display: block;
+  align-content:center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* headings*/
 h3{
   color: #234481;
