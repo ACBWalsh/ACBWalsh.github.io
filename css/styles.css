@@ -33,6 +33,15 @@ h4{
   padding: 0px;
 }
 
+h6{
+  color: #234481;
+  font-family: chelsea-market-pro, sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  padding: 0px;
+}
+
+
 
 /* font size for all text in main webpage */
 p {
