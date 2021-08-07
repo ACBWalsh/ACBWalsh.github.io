@@ -33,14 +33,6 @@ h4{
   padding: 0px;
 }
 
-h6{
-  color: #234481;
-  font-family: monospace;
-  font-size: 12px;
-  padding: 0px;
-}
-
-
 
 /* font size for all text in main webpage */
 p {
@@ -107,6 +99,10 @@ a:hover{
 
 .footer {
   text-align: center;
+  color: #234481;
+  font-family: monospace;
+  font-size: 12px;
+  padding: 0px;
 }
 
 .linkHead{
