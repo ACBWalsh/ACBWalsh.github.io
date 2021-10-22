@@ -98,18 +98,7 @@ a:hover{
   color: #F45B69
 }
 
-.footer {
-position: fixed;
-  text-align: center;
-  left: 0;
- bottom: 0;
- width: 100%;
-  color: #234481;
-  font-family: monospace;
-  font-size: 12px;
-  padding: 100px;
-  background-color: red
-}
+
 
 .linkHead{
   color: #234481;
