@@ -89,6 +89,7 @@ a:hover{
   float: left;
 }
 
+
 .webpage {
   color: #234481;
     text-align: center;
@@ -97,13 +98,7 @@ a:hover{
   color: #F45B69
 }
 
-.footer {
-  text-align: center;
-  color: #234481;
-  font-family: monospace;
-  font-size: 12px;
-  padding: 0px;
-}
+
 
 .linkHead{
   color: #234481;
